@@ -1,4 +1,4 @@
-# Mail Spam Classification Mini Project
+# Mail Spam Classification
 
 ## Overview
 
